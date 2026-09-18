@@ -1,0 +1,7 @@
+{
+  "name": "Daily Bible Verse Recite",
+  "description": "Daily bilingual Bible verse memorization with Chinese (和合本) and English scriptures, interactive recitation practice, custom verse search, and mobile access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
